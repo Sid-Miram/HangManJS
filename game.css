@@ -1,0 +1,74 @@
+body{
+    overflow: hidden;
+}
+h2{
+    text-align: center;
+
+}
+
+img{
+    height: 80vh;
+}
+.keyboard{
+    display: flex;
+    justify-content: center;
+    padding-top: 90px;
+    gap: 5px;
+    padding: 10vh;
+    width: 800px;
+    flex-wrap: wrap;
+    margin-left: 40vh;
+
+}
+.game{
+    position: relative;
+    bottom:70vh;
+    left: 35vh;
+}
+.words .letter{
+    width: 6vh;
+    border-bottom: 3px solid;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    text-transform: capitalize;
+    
+    
+    
+}
+.words{
+    list-style-type: none;
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+    
+    
+}
+.hint{
+    display: flex;
+    justify-content: center;
+    color: #195091;
+    font-size: larger;
+    flex-wrap: wrap;
+}
+.guess{
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 10vh;
+}
+span{
+    color: red;
+}
+h1{
+    font-variant: small-caps;
+    font-size: 5vh;
+    padding-left: 7vw;
+}
+.keyboard button{
+    width: 6vw;
+    padding: 5px 3px 5px;
+    background-color: rgba(53, 203, 83, 0.644);
+    
+    
+}

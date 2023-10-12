@@ -1,0 +1,30 @@
+#GameOver{
+   margin-left: 43vh;
+   margin-top:5vh;
+  
+}
+#icon{
+    height: 20vh;
+    position: relative;
+    bottom: 28vh;
+    left: 0vh;
+}
+#dead{
+    position: relative;
+    right: 50vh;
+    top:34vh;
+}
+#again{
+    margin-left: 85vh;
+    margin-top:34vh;
+    width: 300px;
+    height: 70px;
+    font-size: xx-large;
+    background-color: #F24C4C;
+    border-radius: 20px;
+}
+div{
+    text-align: end;
+    font-size: xx-large;
+    color: rgb(124, 198, 222);
+}

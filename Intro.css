@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background: url(https://img.freepik.com/free-photo/squared-paper-texture_1154-677.jpg?w=740&t=st=1697021646~exp=1697022246~hmac=87bf83f3dfce70f631ddd05aaaf81d5aae724a612ddef4b4800fab6cb7990cee);
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    height: 760px;
+ }
+ .kser{
+     color: rgb(0, 0, 0);
+     font-size: x-large;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bold;
+     text-align: center;
+     padding: 40px;
+     text-align: center;
+ }
+ .del{
+     color: rgb(47, 0, 255);
+     font-size: xx-large;
+     font-family: 'Times New Roman', Times, serif;
+     
+     border: 5px dashed rgb(45, 45, 227);
+     width: max-content;
+     margin-left: 560px;
+     padding: 16px;
+     background-color: rgb(158, 230, 230);
+ }
+ .rover:hover{
+     background-color: rgb(26, 205, 53);
+     color: white;
+ }
+ .rover{
+     padding: 14px;
+     border: 3px solid rgb(124, 216, 19);
+     border-radius: 12px;
+ }
+ #btnn{
+     color: rgb(211, 17, 124);
+     font-size: larger;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bold;
+     padding: 15px;
+     border-radius: 20px;
+     background-color: rgb(249, 214, 247);
+     font-style: italic;
+ }

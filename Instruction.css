@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarpanch:wght@400;600&display=swap');
+body{
+    background-image: url(page3.jpg);
+    background-size: cover;
+    height: 780px;
+}
+h1{
+    font-family: Sarpanch;
+    font-size: 70px;@import url('https://fonts.googleapis.com/css2?family=Sarpanch&display=swap');
+    margin-left: 430px;
+    margin-top: 4px;
+}
+p{
+    font-family: sarpanch;
+    font-size: 30px;
+    margin-left: 400px;
+    margin-top: 90px;
+    line-height: 50px;
+}
+#lose{
+    color: #E51E1E;
+}
+#win{
+    color: #3CB329;
+}
